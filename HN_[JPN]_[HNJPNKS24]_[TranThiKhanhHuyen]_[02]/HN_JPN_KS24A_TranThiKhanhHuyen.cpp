@@ -133,6 +133,6 @@ int main(){
 			default:
 				printf("Vui long chon tu 1-11");
 		}
-	}while(1==1);
+	}while(choice=!11);
 }
 				
